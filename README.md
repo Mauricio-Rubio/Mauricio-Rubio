@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Rubio</h1>
-<h3 align="center">A passionate frontend junior developer from Mexico and Student of UNAM</h3>
+<h3 align="center">Passionate junior software developer in Mexico and Computer Science student (UNAM), with experience in web development, frontend and backend. I look for challenges that allow me to grow in my person and skills</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
